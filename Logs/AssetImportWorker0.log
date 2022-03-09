@@ -1,0 +1,620 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22000.493; Version 2009; 64bit' Language: 'en' Physical Memory: 7880 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Rollo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65039
+Successfully changed project path to: E:/Rollo
+E:/Rollo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.34 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Rollo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x8a56)
+    Vendor:   
+    VRAM:     3940 MB
+    Driver:   26.20.100.7926
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56056
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002621 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.65 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.348 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.01 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.206 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.5 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3576.
+Total: 3.061000 ms (FindLiveObjects: 0.265900 ms CreateObjectMapping: 0.099600 ms MarkObjects: 2.529200 ms  DeleteObjects: 0.164900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Models/Platforms/LowPolyArmMount.obj
+  artifactKey: Guid(f7b66bda648213c4897f87b32bb42771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/LowPolyArmMount.obj using Guid(f7b66bda648213c4897f87b32bb42771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f2edd28ddbe63cdd0f1c8b22f089614') in 0.295648 seconds 
+  Import took 0.305314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Models/Platforms/LowPolyArm.obj
+  artifactKey: Guid(5b94ddc302fc1554f97cb12d69312954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/LowPolyArm.obj using Guid(5b94ddc302fc1554f97cb12d69312954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c884b2a8df60cce95a7018922ff279c3') in 0.063162 seconds 
+  Import took 0.072195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Models/Platforms/LowPolyPlatform.obj
+  artifactKey: Guid(fe72dc3e9c14aa8429312b1677f67092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/LowPolyPlatform.obj using Guid(fe72dc3e9c14aa8429312b1677f67092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b6f7742763e6dd1fb0c4a20e01aa70') in 0.064785 seconds 
+  Import took 0.077840 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004928 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.594 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.6 MB.
+System memory in use after: 138.8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3664.
+Total: 2.971300 ms (FindLiveObjects: 0.260800 ms CreateObjectMapping: 0.130100 ms MarkObjects: 2.488000 ms  DeleteObjects: 0.090900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005363 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.175 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.6 MB.
+System memory in use after: 138.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3666.
+Total: 3.047700 ms (FindLiveObjects: 0.277000 ms CreateObjectMapping: 0.103300 ms MarkObjects: 2.513600 ms  DeleteObjects: 0.152600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008030 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.200 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.7 MB.
+System memory in use after: 138.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3668.
+Total: 2.662400 ms (FindLiveObjects: 0.250700 ms CreateObjectMapping: 0.107200 ms MarkObjects: 2.092200 ms  DeleteObjects: 0.203400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 347.586239 seconds.
+  path: Assets/Materials/Platforms/RotatingPlatformMount.mat
+  artifactKey: Guid(e3aaffccf9b03aa4598fe5db0ea6d06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/RotatingPlatformMount.mat using Guid(e3aaffccf9b03aa4598fe5db0ea6d06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0e463e3024c3e90f0708e93fb056ca') in 0.239166 seconds 
+  Import took 0.251896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.653901 seconds.
+  path: Assets/Materials/Platforms/RotatingPlatformArm.mat
+  artifactKey: Guid(699800497234b6e40a1a50a1017768e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/RotatingPlatformArm.mat using Guid(699800497234b6e40a1a50a1017768e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cabae4f3cc17639e1f8a920ec5b9607') in 0.039936 seconds 
+  Import took 0.050429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.237511 seconds.
+  path: Assets/Materials/Platforms/RotatingPlatformPlatform.mat
+  artifactKey: Guid(7d2032fe62f8dfd40a891e57115c9603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/RotatingPlatformPlatform.mat using Guid(7d2032fe62f8dfd40a891e57115c9603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da36eca0adff5ed5cc45f85dbff191fe') in 0.038983 seconds 
+  Import took 0.049007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.103831 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform
+  artifactKey: Guid(fd713a5730db9bf4fb8fca8e0b48bce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform using Guid(fd713a5730db9bf4fb8fca8e0b48bce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ab07b334414e56d65a9c5fa212c92b') in 0.016946 seconds 
+  Import took 0.028586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009403 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform
+  artifactKey: Guid(fd713a5730db9bf4fb8fca8e0b48bce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform using Guid(fd713a5730db9bf4fb8fca8e0b48bce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ab07b334414e56d65a9c5fa212c92b') in 0.091380 seconds 
+  Import took 0.103863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.379616 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/ArmLowPolyDiffuse.png
+  artifactKey: Guid(cf388478a17fde04baac3c594f9bb72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/ArmLowPolyDiffuse.png using Guid(cf388478a17fde04baac3c594f9bb72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f17ab8b1db96f81fcd1147c5c0f381') in 0.044249 seconds 
+  Import took 0.054882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowPolyArmMetalRough.png
+  artifactKey: Guid(d56f97746da16884f99846e9a2867beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowPolyArmMetalRough.png using Guid(d56f97746da16884f99846e9a2867beb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6b09bc48610d3b65ddd16cc25d9e8b') in 0.043511 seconds 
+  Import took 0.054333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowResPlatformMetalRough.png
+  artifactKey: Guid(b4012fec43a54cb4691bf4999076a18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowResPlatformMetalRough.png using Guid(b4012fec43a54cb4691bf4999076a18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24b550819e460e75bb3efa20adf90b99') in 0.037751 seconds 
+  Import took 0.047714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Diffuse.png
+  artifactKey: Guid(32839c27aaed5bf45b9166d9e5b48174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Diffuse.png using Guid(32839c27aaed5bf45b9166d9e5b48174) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd87993620cb72e7e67bf3a2c32fc8130') in 0.034638 seconds 
+  Import took 0.048063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/PlatformNormal.png
+  artifactKey: Guid(c90e7c469da41424aa42512e4cfab257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/PlatformNormal.png using Guid(c90e7c469da41424aa42512e4cfab257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c45998168bc4a06c7dcdfc35b63b15bd') in 0.038454 seconds 
+  Import took 0.050345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowPoltMountMetalRough.png
+  artifactKey: Guid(b75b11e06dfcdc24897327cc109b7c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowPoltMountMetalRough.png using Guid(b75b11e06dfcdc24897327cc109b7c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a5e02d4a23e0d01e72ef8607042b03') in 0.041965 seconds 
+  Import took 0.053362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/PlatformDiffuse.png
+  artifactKey: Guid(62e6f40b92fd12240a1e82009246dcbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/PlatformDiffuse.png using Guid(62e6f40b92fd12240a1e82009246dcbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e44f9bc2e73c197c5c5e834231ad2506') in 0.034257 seconds 
+  Import took 0.048339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000489 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowPoltMountMetalRough.png
+  artifactKey: Guid(b75b11e06dfcdc24897327cc109b7c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowPoltMountMetalRough.png using Guid(b75b11e06dfcdc24897327cc109b7c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a5e02d4a23e0d01e72ef8607042b03') in 0.041315 seconds 
+  Import took 0.050321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000576 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/ArmLowPolyNormal.png
+  artifactKey: Guid(bed950a3a341e0f48b129439a8c2d19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/ArmLowPolyNormal.png using Guid(bed950a3a341e0f48b129439a8c2d19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e1722efdef1ea863a98c669782170f3') in 0.039939 seconds 
+  Import took 0.050565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Normal.png
+  artifactKey: Guid(b2a07a85b78f54e45b56ffea4c15e2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Normal.png using Guid(b2a07a85b78f54e45b56ffea4c15e2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d83f48bc33a936cd061c609ef4f233b') in 0.036560 seconds 
+  Import took 0.048402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/PlatformEmit.png
+  artifactKey: Guid(4b64c778ba2c54747a5e409f2ed0a013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/PlatformEmit.png using Guid(4b64c778ba2c54747a5e409f2ed0a013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486d73339102e2451bb2ada96a474c3a') in 0.038063 seconds 
+  Import took 0.052514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Normal.png
+  artifactKey: Guid(b2a07a85b78f54e45b56ffea4c15e2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Normal.png using Guid(b2a07a85b78f54e45b56ffea4c15e2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d83f48bc33a936cd061c609ef4f233b') in 0.033142 seconds 
+  Import took 0.041532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/PlatformEmit.png
+  artifactKey: Guid(4b64c778ba2c54747a5e409f2ed0a013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/PlatformEmit.png using Guid(4b64c778ba2c54747a5e409f2ed0a013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486d73339102e2451bb2ada96a474c3a') in 0.031170 seconds 
+  Import took 0.038800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.421976 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/ArmLowPolyNormal.png
+  artifactKey: Guid(bed950a3a341e0f48b129439a8c2d19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/ArmLowPolyNormal.png using Guid(bed950a3a341e0f48b129439a8c2d19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ebcda9421da9210e31ef9a6f144b56a') in 0.045063 seconds 
+  Import took 0.055581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.325098 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Normal.png
+  artifactKey: Guid(b2a07a85b78f54e45b56ffea4c15e2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Normal.png using Guid(b2a07a85b78f54e45b56ffea4c15e2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58ac17bf4333f63301e2b1fe135cd73') in 0.031378 seconds 
+  Import took 0.044002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010153 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Normal.png
+  artifactKey: Guid(b2a07a85b78f54e45b56ffea4c15e2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/LowPolyMount_Normal.png using Guid(b2a07a85b78f54e45b56ffea4c15e2c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58ac17bf4333f63301e2b1fe135cd73') in 0.035301 seconds 
+  Import took 0.044191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.505247 seconds.
+  path: Assets/Textures/Platforms/RotatePlatform/PlatformNormal.png
+  artifactKey: Guid(c90e7c469da41424aa42512e4cfab257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/RotatePlatform/PlatformNormal.png using Guid(c90e7c469da41424aa42512e4cfab257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '526ab9132a5f8ade90070a9b776ab22a') in 0.041182 seconds 
+  Import took 0.052635 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005083 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.264 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.9 MB.
+System memory in use after: 139.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3710.
+Total: 3.249700 ms (FindLiveObjects: 0.355100 ms CreateObjectMapping: 0.131300 ms MarkObjects: 2.677000 ms  DeleteObjects: 0.084600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 234.754363 seconds.
+  path: Assets/Models/Prefabs/RotatingPlatform.prefab
+  artifactKey: Guid(f9a821bdea1d9e3499a4b9714d5777d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/RotatingPlatform.prefab using Guid(f9a821bdea1d9e3499a4b9714d5777d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ab8f30bfdc03c0079ce41bc11dcd211') in 0.223609 seconds 
+  Import took 0.231391 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004625 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.200 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.1 MB.
+System memory in use after: 139.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3750.
+Total: 2.782300 ms (FindLiveObjects: 0.249600 ms CreateObjectMapping: 0.129600 ms MarkObjects: 2.324000 ms  DeleteObjects: 0.077900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 801.360884 seconds.
+  path: Assets/Materials/Platforms/RotatingPlatformArm.mat
+  artifactKey: Guid(699800497234b6e40a1a50a1017768e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/RotatingPlatformArm.mat using Guid(699800497234b6e40a1a50a1017768e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cbdfc5f897e9c894146e990b59d78ec') in 0.334773 seconds 
+  Import took 0.360955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Materials/Platforms/RotatingPlatformMount.mat
+  artifactKey: Guid(e3aaffccf9b03aa4598fe5db0ea6d06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/RotatingPlatformMount.mat using Guid(e3aaffccf9b03aa4598fe5db0ea6d06d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da99398a1f95946e2aff15ce33852ad') in 0.074747 seconds 
+  Import took 0.084706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Materials/Platforms/RotatingPlatformPlatform.mat
+  artifactKey: Guid(7d2032fe62f8dfd40a891e57115c9603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/RotatingPlatformPlatform.mat using Guid(7d2032fe62f8dfd40a891e57115c9603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cd6ea7d8cba3200375ea11cadccc981') in 0.072706 seconds 
+  Import took 0.090063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.317239 seconds.
+  path: Assets/Models/Platforms/LowPolyFloatingPlatform.obj
+  artifactKey: Guid(146d10354675b694eac9febf10dae0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/LowPolyFloatingPlatform.obj using Guid(146d10354675b694eac9febf10dae0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a29271944049e57792bee6963c36a5bf') in 0.087677 seconds 
+  Import took 0.097644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.095457 seconds.
+  path: Assets/Models/Prefabs/LowPolyFloatingPlatform.prefab
+  artifactKey: Guid(fc5faf8e12573c244b6587ce9f70c91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/LowPolyFloatingPlatform.prefab using Guid(fc5faf8e12573c244b6587ce9f70c91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b85bc41008044bb93c22772c9c6d3f4') in 0.043847 seconds 
+  Import took 0.056056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.760946 seconds.
+  path: Assets/Models/Platforms/LowPolyFloatingPlatform.obj
+  artifactKey: Guid(146d10354675b694eac9febf10dae0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/LowPolyFloatingPlatform.obj using Guid(146d10354675b694eac9febf10dae0d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdbdc296d9812621362d89ec6bf37d47') in 0.063819 seconds 
+  Import took 0.080333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.423285 seconds.
+  path: Assets/Models/Prefabs/LowPolyFloatingPlatform.prefab
+  artifactKey: Guid(fc5faf8e12573c244b6587ce9f70c91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/LowPolyFloatingPlatform.prefab using Guid(fc5faf8e12573c244b6587ce9f70c91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74836c1b9a8777873bdbf7ffe0c7f1b5') in 0.047067 seconds 
+  Import took 0.059126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001550 seconds.
+  path: Assets/Models/Prefabs/LowPolyFloatingPlatform.prefab
+  artifactKey: Guid(fc5faf8e12573c244b6587ce9f70c91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/LowPolyFloatingPlatform.prefab using Guid(fc5faf8e12573c244b6587ce9f70c91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74836c1b9a8777873bdbf7ffe0c7f1b5') in 0.035724 seconds 
+  Import took 0.042471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.695417 seconds.
+  path: Assets/Materials/Platforms/FloatingPlatform.mat
+  artifactKey: Guid(b2a31085cf8e74949ae6c5da5e6309e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/FloatingPlatform.mat using Guid(b2a31085cf8e74949ae6c5da5e6309e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0afbbbeb88e7d1358e9666145faf59c6') in 0.042873 seconds 
+  Import took 0.052722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.417900 seconds.
+  path: Assets/Models/Prefabs/LowPolyFloatingPlatform.prefab
+  artifactKey: Guid(fc5faf8e12573c244b6587ce9f70c91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/LowPolyFloatingPlatform.prefab using Guid(fc5faf8e12573c244b6587ce9f70c91a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f277a46482c25d34bcd81f67b6958181') in 0.033890 seconds 
+  Import took 0.042952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.609795 seconds.
+  path: Assets/Models/Prefabs/FloatingPlatform.prefab
+  artifactKey: Guid(0472708ca12eee8459c479ba22361749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/FloatingPlatform.prefab using Guid(0472708ca12eee8459c479ba22361749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e5d4670ab4fcdbbd287b4551632ab3') in 0.042391 seconds 
+  Import took 0.052107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.252365 seconds.
+  path: Assets/Textures/Platforms/FloatingPlatform
+  artifactKey: Guid(6790d85fa42672942b55d184d0d7ca5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/FloatingPlatform using Guid(6790d85fa42672942b55d184d0d7ca5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9713eb20ee700ae7edb590fc14198bff') in 0.019434 seconds 
+  Import took 0.032048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.745513 seconds.
+  path: Assets/Textures/Platforms/FloatingPlatform/FloatingPlatformLowPoly_Normal.png
+  artifactKey: Guid(652f9fc3e454ae04aa6dcffaa1d70fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/FloatingPlatform/FloatingPlatformLowPoly_Normal.png using Guid(652f9fc3e454ae04aa6dcffaa1d70fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '004d17656a8ca26d87b981234161a47d') in 0.043918 seconds 
+  Import took 0.051164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Textures/Platforms/FloatingPlatform/LowPolyFloatingPlatform_MetalRough.png
+  artifactKey: Guid(2fee0cb75d67fce4593b023118709751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/FloatingPlatform/LowPolyFloatingPlatform_MetalRough.png using Guid(2fee0cb75d67fce4593b023118709751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3308605cfdc9bdd4b3b563c27826f59e') in 0.035392 seconds 
+  Import took 0.045456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Textures/Platforms/FloatingPlatform/LowPolyFloatingPlatform_Diffuse.png
+  artifactKey: Guid(354196f2244626042b6dfeec3c0cca35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/FloatingPlatform/LowPolyFloatingPlatform_Diffuse.png using Guid(354196f2244626042b6dfeec3c0cca35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4717f35ac084ca322fc694456528b3d7') in 0.043190 seconds 
+  Import took 0.054713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.394466 seconds.
+  path: Assets/Textures/Platforms/FloatingPlatform/FloatingPlatformLowPoly_Normal.png
+  artifactKey: Guid(652f9fc3e454ae04aa6dcffaa1d70fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/FloatingPlatform/FloatingPlatformLowPoly_Normal.png using Guid(652f9fc3e454ae04aa6dcffaa1d70fc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7098235e98403bed475f3ac452bb814b') in 0.029054 seconds 
+  Import took 0.039960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.435531 seconds.
+  path: Assets/Models/Prefabs/FloatingPlatform.prefab
+  artifactKey: Guid(0472708ca12eee8459c479ba22361749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/FloatingPlatform.prefab using Guid(0472708ca12eee8459c479ba22361749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c863a2f246ffcc8615f1e1d619e9388') in 0.039464 seconds 
+  Import took 0.047962 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.064365 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.223 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3030 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.3 MB.
+System memory in use after: 139.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3790.
+Total: 2.993100 ms (FindLiveObjects: 0.263700 ms CreateObjectMapping: 0.108600 ms MarkObjects: 2.500500 ms  DeleteObjects: 0.119000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
