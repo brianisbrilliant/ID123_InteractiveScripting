@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -62,6 +63,7 @@ public class PlayerController : MonoBehaviour
     float wheelAngle = 0;
     float lowerTargetAngle;
     float upperTargetAngle;
+    float previousHealth;
 
     int currentJumpCount = 0;
 
@@ -85,6 +87,8 @@ public class PlayerController : MonoBehaviour
     Quaternion LookAtRotation;
     Quaternion bodyRotationTarget;
 
+    Health playerHealth;
+
     private void Awake()
     {
         // Automatically set some variables
@@ -95,6 +99,7 @@ public class PlayerController : MonoBehaviour
         lookTargetOffset = transform.InverseTransformDirection(eyeTarget.position);
         lookTargetOffsetReverse = lookTargetOffset;
         lookTargetOffsetReverse.z = -lookTargetOffset.z;
+        playerHealth = gameObject.GetComponent<Health>();
     }
 
     private void Start()
@@ -175,6 +180,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        checkHealth();
         rotateWheel(findMovement());
         RotateBody();
         CheckJump();
@@ -183,6 +189,15 @@ public class PlayerController : MonoBehaviour
         MoveCamera();
         updateDebugInfo();
         ResetUpdateInfo();
+    }
+
+    void checkHealth()
+    {
+        UIManager.healthText.text = "Health: " + playerHealth.health.ToString();
+        if (playerHealth.health <= 0)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 
     void updateDebugInfo()

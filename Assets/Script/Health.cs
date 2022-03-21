@@ -6,6 +6,7 @@ public class Health : MonoBehaviour
 {
 
     public float health = 100;
+    public float maxHealth = 100;
 
     // Sets it to use children as fragments
     [SerializeField]
@@ -36,7 +37,9 @@ public class Health : MonoBehaviour
     public AudioSource aud;
 
     public bool shrinkOnHit;
+    public bool shrinkPerHealth;
     public float shrinkFactor = 0.98f;
+    public float randDamage;
 
 
     public AudioClip hit1;
@@ -50,11 +53,21 @@ public class Health : MonoBehaviour
     int hitSound;
 
     bool canCollide = true;
+    Vector3 targetScale = Vector3.one;
 
     private void Awake()
     {
         objectRB = gameObject.GetComponent<Rigidbody>();
     }
+
+    private void Update()
+    {
+        if (shrinkOnHit)
+        {
+            transform.localScale = Vector3.Lerp(transform.localScale, targetScale, 2.5f * Time.deltaTime);
+        }
+    }
+
 
     private void OnCollisionEnter(Collision collision)
     {
@@ -85,10 +98,26 @@ public class Health : MonoBehaviour
 
             if (collision.gameObject.CompareTag("Bullet"))
             {
-                health -= collision.gameObject.GetComponent<BulletScript>().damage;
+                randDamage = Random.Range(0, 10);
+                if(randDamage > 7.5f)
+                {
+                    randDamage = Random.Range(1.6f, 2.2f);
+                }
+                else
+                {
+                    randDamage = Random.Range(0.7f, 1.1f);
+                }
+                health -= collision.gameObject.GetComponent<BulletScript>().damage * randDamage;
                 if (shrinkOnHit)
                 {
-                    transform.localScale *= shrinkFactor;
+                    if (shrinkPerHealth)
+                    {
+                        targetScale = Vector3.one * (health / maxHealth);
+                    }
+                    else
+                    {
+                        targetScale *= shrinkFactor;
+                    }
                 }
 
                 if (health <= 0)
@@ -150,5 +179,7 @@ public class Health : MonoBehaviour
                 partRB.AddExplosionForce(1, transform.position, 2);
             }
         }
+        Destroy(gameObject);
+
     }
 }

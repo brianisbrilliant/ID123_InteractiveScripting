@@ -1,0 +1,2265 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22000.556; Version 2009; 64bit' Language: 'en' Physical Memory: 7880 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Rollo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52574
+Successfully changed project path to: E:/Rollo
+E:/Rollo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 105.85 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Rollo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x8a56)
+    Vendor:   
+    VRAM:     3940 MB
+    Driver:   26.20.100.7926
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56364
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004078 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 123.48 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.497 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.016451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 81.94 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.843 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3161 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.4 MB.
+System memory in use after: 143.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3594.
+Total: 4.612500 ms (FindLiveObjects: 0.523300 ms CreateObjectMapping: 0.226700 ms MarkObjects: 3.661600 ms  DeleteObjects: 0.199100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Materials/Platforms/Walkway
+  artifactKey: Guid(89c17afdf70f7a5499a5e04812cb09b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/Walkway using Guid(89c17afdf70f7a5499a5e04812cb09b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc56c19856fed2b994bd7c7ab22149e') in 0.025211 seconds 
+  Import took 0.035185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.640613 seconds.
+  path: Assets/Models/Platforms/Walkway
+  artifactKey: Guid(b17649f258844be41be540c51602b307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/Walkway using Guid(b17649f258844be41be540c51602b307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07a6d0dbd3d59f1c2efd233e8406158') in 0.020925 seconds 
+  Import took 0.029660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057238 seconds.
+  path: Assets/Models/Platforms/Walkway/LowPoly_Cross.obj
+  artifactKey: Guid(3359829bfb606da4fb10d03cc1873abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/Walkway/LowPoly_Cross.obj using Guid(3359829bfb606da4fb10d03cc1873abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27635be2b5aa123d201638f0effe940a') in 0.543313 seconds 
+  Import took 0.557557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Models/Platforms/Walkway/LowPoly_PlatformEndA.obj
+  artifactKey: Guid(1a1dd5643cc1a4f418f8bbb07db14429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/Walkway/LowPoly_PlatformEndA.obj using Guid(1a1dd5643cc1a4f418f8bbb07db14429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f71a6c80cc060afe4e6237a14bfc5292') in 0.116848 seconds 
+  Import took 0.127236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Models/Platforms/Walkway/LowPoly_Post.obj
+  artifactKey: Guid(c015cacdc35e9c64f96467cb104081c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/Walkway/LowPoly_Post.obj using Guid(c015cacdc35e9c64f96467cb104081c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1083966109bfd0ec27f7392338ffdc70') in 0.113048 seconds 
+  Import took 0.124348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000443 seconds.
+  path: Assets/Models/Platforms/Walkway/LowPoly_XMount.obj
+  artifactKey: Guid(0d1b5c7e87b05b74c8d768c8689d21fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/Walkway/LowPoly_XMount.obj using Guid(0d1b5c7e87b05b74c8d768c8689d21fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e69e4258c21502ef7eb88353bceeece') in 0.113307 seconds 
+  Import took 0.125117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Models/Platforms/Walkway/LowPoly_PlatformEndB.obj
+  artifactKey: Guid(33775abc18b950548a147b4a28e4cef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/Walkway/LowPoly_PlatformEndB.obj using Guid(33775abc18b950548a147b4a28e4cef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79800ae778c9a5134f2832c08f253d05') in 0.091539 seconds 
+  Import took 0.102265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Models/Platforms/Walkway/LowPoly_Platform.obj
+  artifactKey: Guid(0f1f1af59843235419b3d0c5a7489dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Platforms/Walkway/LowPoly_Platform.obj using Guid(0f1f1af59843235419b3d0c5a7489dba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7a5ec14487450a54611dc883add534') in 0.097223 seconds 
+  Import took 0.108832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.846813 seconds.
+  path: Assets/Materials/Platforms/Walkway/Cross.mat
+  artifactKey: Guid(9fd61ea457451064db66d689011c7e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/Walkway/Cross.mat using Guid(9fd61ea457451064db66d689011c7e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2dad0b8004dda5b2cd53c55e4c58e3') in 0.063658 seconds 
+  Import took 0.079542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.627178 seconds.
+  path: Assets/Materials/Platforms/Walkway/Posty.mat
+  artifactKey: Guid(a0a900db13f2a6d41a702096308dd7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/Walkway/Posty.mat using Guid(a0a900db13f2a6d41a702096308dd7d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c214fd026dad9fa1b9c9a0d5b1683c') in 0.048806 seconds 
+  Import took 0.063349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.419787 seconds.
+  path: Assets/Materials/Platforms/Walkway/Mount.mat
+  artifactKey: Guid(29f0a8aa7af150847b1042ca50b56b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/Walkway/Mount.mat using Guid(29f0a8aa7af150847b1042ca50b56b86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74371a49c731ee3c06a59298e424f81') in 0.043378 seconds 
+  Import took 0.057699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.908904 seconds.
+  path: Assets/Materials/Platforms/Walkway/Platform.mat
+  artifactKey: Guid(82e1d7874dd3da043bf191cf67ea1b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/Walkway/Platform.mat using Guid(82e1d7874dd3da043bf191cf67ea1b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5254e47fdb63a92a7345674829e6ce77') in 0.042287 seconds 
+  Import took 0.054192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.263728 seconds.
+  path: Assets/Materials/Platforms/Walkway/EndA.mat
+  artifactKey: Guid(22c2fb2cf1c238c48ab13006e893bf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/Walkway/EndA.mat using Guid(22c2fb2cf1c238c48ab13006e893bf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee953471b4e0f30bc423258ac879d6a') in 0.049844 seconds 
+  Import took 0.062841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.011580 seconds.
+  path: Assets/Materials/Platforms/Walkway/EndB.mat
+  artifactKey: Guid(baf76d3e08afbb54bb9945fb384ca5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Platforms/Walkway/EndB.mat using Guid(baf76d3e08afbb54bb9945fb384ca5c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ae2f95e10cffd5675647b6ddbe8da7') in 0.048135 seconds 
+  Import took 0.061805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.790664 seconds.
+  path: Assets/Textures/Platforms/Walkway/Cross_Diffuse.png
+  artifactKey: Guid(ac26ed869504522429c36c8d508146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Cross_Diffuse.png using Guid(ac26ed869504522429c36c8d508146fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8825f6399a54748898d9e68dda20f6b0') in 0.047888 seconds 
+  Import took 0.060447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Textures/Platforms/Walkway/EndB_MetalRough.png
+  artifactKey: Guid(7a879754e4c76a54f9f293857c17a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/EndB_MetalRough.png using Guid(7a879754e4c76a54f9f293857c17a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34312be906bce027681f051eb6f8e97') in 0.034758 seconds 
+  Import took 0.044544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/Textures/Platforms/Walkway/EndB_Diffuse.png
+  artifactKey: Guid(ec544c2f40c8d264ab684c552b30cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/EndB_Diffuse.png using Guid(ec544c2f40c8d264ab684c552b30cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbd90f70f1955575cb615b37e0e8502') in 0.046394 seconds 
+  Import took 0.060999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001059 seconds.
+  path: Assets/Textures/Platforms/Walkway/EndDiffuse.png
+  artifactKey: Guid(dbc04af7a1688814481409bf56b0d6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/EndDiffuse.png using Guid(dbc04af7a1688814481409bf56b0d6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '601f0b69e996ee556eedcb7b8137d983') in 0.043697 seconds 
+  Import took 0.061031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Textures/Platforms/Walkway/EndNormal.png
+  artifactKey: Guid(cb013d53d2bc936459381edf260a4c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/EndNormal.png using Guid(cb013d53d2bc936459381edf260a4c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496d2f1276f48cf9d52d037b7bdca5f9') in 0.043756 seconds 
+  Import took 0.059428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/Textures/Platforms/Walkway/Cross_Normal.png
+  artifactKey: Guid(296f1a01c946b3b43ad78febb9f73b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Cross_Normal.png using Guid(296f1a01c946b3b43ad78febb9f73b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '986ec625769b0ba36575eace1baa6816') in 0.045255 seconds 
+  Import took 0.055931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000999 seconds.
+  path: Assets/Textures/Platforms/Walkway/Wood_MetalRough.png
+  artifactKey: Guid(c0fea129a4f7ef040b5907f72ce743d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Wood_MetalRough.png using Guid(c0fea129a4f7ef040b5907f72ce743d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4efc3748b284e5cad49a4ad0f1eb9892') in 0.035592 seconds 
+  Import took 0.050290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000757 seconds.
+  path: Assets/Textures/Platforms/Walkway/Cross_Normal.png
+  artifactKey: Guid(296f1a01c946b3b43ad78febb9f73b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Cross_Normal.png using Guid(296f1a01c946b3b43ad78febb9f73b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '986ec625769b0ba36575eace1baa6816') in 0.037601 seconds 
+  Import took 0.048961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000642 seconds.
+  path: Assets/Textures/Platforms/Walkway/WoodPole_Diffuse.png
+  artifactKey: Guid(aa92f18ba8ce8f54c890fc156890e0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/WoodPole_Diffuse.png using Guid(aa92f18ba8ce8f54c890fc156890e0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52a7c739f107844ee4997abdbff29099') in 0.047156 seconds 
+  Import took 0.061421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000616 seconds.
+  path: Assets/Textures/Platforms/Walkway/Mount_Normal.png
+  artifactKey: Guid(93a68453861690946aaad018d800be77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Mount_Normal.png using Guid(93a68453861690946aaad018d800be77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04f5d72c83158fb7e07bdce317f581f') in 0.061909 seconds 
+  Import took 0.076454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000390 seconds.
+  path: Assets/Textures/Platforms/Walkway/PlatformDiffuse.png
+  artifactKey: Guid(7d3994e8b9845c4428f72f50201c9ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/PlatformDiffuse.png using Guid(7d3994e8b9845c4428f72f50201c9ca9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53151ec9357ab38eaa7eaa00ff7c4f0d') in 0.036225 seconds 
+  Import took 0.048993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Textures/Platforms/Walkway/PlatformNormal.png
+  artifactKey: Guid(b31f74d230200ae4091870a0adf08a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/PlatformNormal.png using Guid(b31f74d230200ae4091870a0adf08a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6fc4a874ca3a4f82c474ca1e7d7389') in 0.042821 seconds 
+  Import took 0.057134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/Textures/Platforms/Walkway/WoodPole_Roughness.png
+  artifactKey: Guid(a5145b4f0d3a2b943863b19f14ab509c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/WoodPole_Roughness.png using Guid(a5145b4f0d3a2b943863b19f14ab509c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4830cb5cdbff028f8d755c5b23a05d') in 0.037996 seconds 
+  Import took 0.054832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000491 seconds.
+  path: Assets/Textures/Platforms/Walkway/Mount_Diffuse.png
+  artifactKey: Guid(d79f4b88d0f83bd42a4a0349f30c9937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Mount_Diffuse.png using Guid(d79f4b88d0f83bd42a4a0349f30c9937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c12f388d67d79333f57c56608f6b42') in 0.045905 seconds 
+  Import took 0.063147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/Textures/Platforms/Walkway/EndB_Normal.png
+  artifactKey: Guid(57d29d06dea49e149b77a340f49df6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/EndB_Normal.png using Guid(57d29d06dea49e149b77a340f49df6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d5beed11544fa513dc91ad93c424f29') in 0.044335 seconds 
+  Import took 0.058939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Textures/Platforms/Walkway/Mount_MetalRough.png
+  artifactKey: Guid(518295bbfe2033f4d9042e72a266909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Mount_MetalRough.png using Guid(518295bbfe2033f4d9042e72a266909f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd63bc53ea61c4e2a4fb4b3773fa8d312') in 0.060399 seconds 
+  Import took 0.075862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000646 seconds.
+  path: Assets/Textures/Platforms/Walkway/End_MetalRough.png
+  artifactKey: Guid(d2982e4761a31c745b1717c5229757cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/End_MetalRough.png using Guid(d2982e4761a31c745b1717c5229757cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b3b5e0ef0d08cc5950a132ad0bf34d') in 0.045327 seconds 
+  Import took 0.058731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001643 seconds.
+  path: Assets/Textures/Platforms/Walkway/Platform_MetalRough.png
+  artifactKey: Guid(c3f943e04aa69644386159f89ad25ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Platform_MetalRough.png using Guid(c3f943e04aa69644386159f89ad25ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f89bab484c02477122f1a2659de4cf5') in 0.039664 seconds 
+  Import took 0.052658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/Textures/Platforms/Walkway/Cross_MetalRough.png
+  artifactKey: Guid(17aa28f0ea201fa4e9876e1db0a2a1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Cross_MetalRough.png using Guid(17aa28f0ea201fa4e9876e1db0a2a1e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb31cbdfb992e4ad419d4bfeeefb92f') in 0.058842 seconds 
+  Import took 0.072378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.726325 seconds.
+  path: Assets/Textures/Platforms/Walkway/Cross_Normal.png
+  artifactKey: Guid(296f1a01c946b3b43ad78febb9f73b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Cross_Normal.png using Guid(296f1a01c946b3b43ad78febb9f73b4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fc166c75b3f12d414de2f976e4f4859') in 0.043581 seconds 
+  Import took 0.056878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.678159 seconds.
+  path: Assets/Textures/Platforms/Walkway/EndB_Normal.png
+  artifactKey: Guid(57d29d06dea49e149b77a340f49df6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/EndB_Normal.png using Guid(57d29d06dea49e149b77a340f49df6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845a6b7a18748970d3566f9b79496e4e') in 0.040207 seconds 
+  Import took 0.055233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.152945 seconds.
+  path: Assets/Textures/Platforms/Walkway/EndNormal.png
+  artifactKey: Guid(cb013d53d2bc936459381edf260a4c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/EndNormal.png using Guid(cb013d53d2bc936459381edf260a4c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652469af32ba07a465feaf512e7cecab') in 0.035074 seconds 
+  Import took 0.051040 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.949306 seconds.
+  path: Assets/Textures/Platforms/Walkway/Mount_Normal.png
+  artifactKey: Guid(93a68453861690946aaad018d800be77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/Mount_Normal.png using Guid(93a68453861690946aaad018d800be77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3ec3106b498c20e6a51a8bf2ff0480') in 0.035291 seconds 
+  Import took 0.046895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.500461 seconds.
+  path: Assets/Textures/Platforms/Walkway/PlatformNormal.png
+  artifactKey: Guid(b31f74d230200ae4091870a0adf08a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/PlatformNormal.png using Guid(b31f74d230200ae4091870a0adf08a8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffcd6667166e588cad8ec53b24f802d6') in 0.034741 seconds 
+  Import took 0.044307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.206218 seconds.
+  path: Assets/Textures/Platforms/Walkway/WoodPole_Normal.png
+  artifactKey: Guid(c9103bebd2a10bd43bdbb1b9058fe8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/WoodPole_Normal.png using Guid(c9103bebd2a10bd43bdbb1b9058fe8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e3c0491bfbf92a73b5d0ddc54356cb') in 0.045644 seconds 
+  Import took 0.060981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.267761 seconds.
+  path: Assets/Textures/Platforms/Walkway/WoodPole_Normal.png
+  artifactKey: Guid(c9103bebd2a10bd43bdbb1b9058fe8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/WoodPole_Normal.png using Guid(c9103bebd2a10bd43bdbb1b9058fe8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e2d3453d043aa5c69aa8d8f270a191') in 0.040208 seconds 
+  Import took 0.058084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001203 seconds.
+  path: Assets/Textures/Platforms/Walkway/WoodPole_Normal.png
+  artifactKey: Guid(c9103bebd2a10bd43bdbb1b9058fe8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Platforms/Walkway/WoodPole_Normal.png using Guid(c9103bebd2a10bd43bdbb1b9058fe8e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e2d3453d043aa5c69aa8d8f270a191') in 0.045088 seconds 
+  Import took 0.053418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.125471 seconds.
+  path: Assets/Models/Prefabs/Walkway
+  artifactKey: Guid(179b600cf2dac7a4ebc684306059296f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway using Guid(179b600cf2dac7a4ebc684306059296f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a668969e72afcf1e8ba2fd58dba9b332') in 0.018007 seconds 
+  Import took 0.032503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001872 seconds.
+  path: Assets/Models/Prefabs/Walkway
+  artifactKey: Guid(179b600cf2dac7a4ebc684306059296f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway using Guid(179b600cf2dac7a4ebc684306059296f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a668969e72afcf1e8ba2fd58dba9b332') in 0.017685 seconds 
+  Import took 0.030805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.495910 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_Cross.prefab
+  artifactKey: Guid(3c1e0f458c5db0944988fc2f72e579b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_Cross.prefab using Guid(3c1e0f458c5db0944988fc2f72e579b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9344989cbdac11ae1fbc3d2375bcab99') in 0.060174 seconds 
+  Import took 0.073804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003038 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_Cross.prefab
+  artifactKey: Guid(3c1e0f458c5db0944988fc2f72e579b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_Cross.prefab using Guid(3c1e0f458c5db0944988fc2f72e579b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9344989cbdac11ae1fbc3d2375bcab99') in 0.050133 seconds 
+  Import took 0.064774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.503701 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_Platform.prefab
+  artifactKey: Guid(711b47b8c873e7248b04b61617b49de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_Platform.prefab using Guid(711b47b8c873e7248b04b61617b49de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19433d526d973bb8ca250be9f7f94b2b') in 0.050612 seconds 
+  Import took 0.067550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006623 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_Platform.prefab
+  artifactKey: Guid(711b47b8c873e7248b04b61617b49de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_Platform.prefab using Guid(711b47b8c873e7248b04b61617b49de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19433d526d973bb8ca250be9f7f94b2b') in 0.053352 seconds 
+  Import took 0.067799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.422975 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_PlatformEndA.prefab
+  artifactKey: Guid(66d2d77b8317f61488612db74c18ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_PlatformEndA.prefab using Guid(66d2d77b8317f61488612db74c18ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3ba5d64aaafcc158aa202deac89940') in 0.044238 seconds 
+  Import took 0.059566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003488 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_PlatformEndA.prefab
+  artifactKey: Guid(66d2d77b8317f61488612db74c18ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_PlatformEndA.prefab using Guid(66d2d77b8317f61488612db74c18ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd3ba5d64aaafcc158aa202deac89940') in 0.047745 seconds 
+  Import took 0.061531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.824201 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_PlatformEndB.prefab
+  artifactKey: Guid(87c78188d60e61346acda732a28e0a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_PlatformEndB.prefab using Guid(87c78188d60e61346acda732a28e0a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f69c44b67c9fa5df42f0c43df9f0af') in 0.047476 seconds 
+  Import took 0.063210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.131808 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_PlatformEndA.prefab
+  artifactKey: Guid(66d2d77b8317f61488612db74c18ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_PlatformEndA.prefab using Guid(66d2d77b8317f61488612db74c18ad65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acbcb94687894ce3933fb2230f750e6') in 0.052334 seconds 
+  Import took 0.063229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.298643 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_Post.prefab
+  artifactKey: Guid(5ffaeffb68284474abe8875418a03c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_Post.prefab using Guid(5ffaeffb68284474abe8875418a03c99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c2aca3dcd27557f92a293461ec625d7') in 0.039251 seconds 
+  Import took 0.052312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.094212 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_XMount.prefab
+  artifactKey: Guid(31de13011cd5b494c9d4730074bcd846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_XMount.prefab using Guid(31de13011cd5b494c9d4730074bcd846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cefc872cdbed7400de86b49cca4706c') in 0.045133 seconds 
+  Import took 0.058684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004619 seconds.
+  path: Assets/Models/Prefabs/Walkway/LowPoly_XMount.prefab
+  artifactKey: Guid(31de13011cd5b494c9d4730074bcd846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/LowPoly_XMount.prefab using Guid(31de13011cd5b494c9d4730074bcd846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cefc872cdbed7400de86b49cca4706c') in 0.048970 seconds 
+  Import took 0.062572 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 716.783351 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b9db05e26738dc24560f5ada6c42390') in 0.075523 seconds 
+  Import took 0.093870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 483.642972 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway 1.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway 1.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fc3e9dbd054781881eddb93416ca87f') in 0.073194 seconds 
+  Import took 0.091149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.293266 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b0fa627c82a2afe7a55db4bf2b3817') in 0.063591 seconds 
+  Import took 0.077708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.916835 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59bca145872abc98ce77a9d3bb524c01') in 0.061265 seconds 
+  Import took 0.072675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.192860 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a170259d7d8b48d44e3f7be5718784a3') in 0.065811 seconds 
+  Import took 0.081082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.990913 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e8d35ab2272c892e4a1721520d2408') in 0.053765 seconds 
+  Import took 0.066171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.324338 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef16e0932a1107415aee31ef6db84f3') in 0.064933 seconds 
+  Import took 0.080061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.168182 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e09ca37c5ad483cc5a27c91712a3583') in 0.062951 seconds 
+  Import took 0.074978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.959954 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2205e7b061c75e92e96e345ad655821') in 0.053071 seconds 
+  Import took 0.067648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.133885 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fce419af0dca3d935eed0705a02608cd') in 0.065734 seconds 
+  Import took 0.077168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.920456 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c1ac3e31dc76e4226a4150f66b7a6d') in 0.056668 seconds 
+  Import took 0.070742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.738119 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c354732f5149416806467290b9e7eb8') in 0.050389 seconds 
+  Import took 0.063458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.235465 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32fe2d2393c9dbb499ff3bb2d4fffdbf') in 0.059139 seconds 
+  Import took 0.076963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.976631 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c6aee1af97a166fd11b7cd5271abcf5') in 0.075575 seconds 
+  Import took 0.089206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.709069 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e803cddf03803b696c7860b6a9755926') in 0.121665 seconds 
+  Import took 0.137468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018953 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e803cddf03803b696c7860b6a9755926') in 0.048065 seconds 
+  Import took 0.060449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.637225 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0269b8ac7f3e340cb9ad8820aaca38') in 0.096753 seconds 
+  Import took 0.114928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.074386 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112dbc07f82b07eac3b97b11b023d656') in 0.060293 seconds 
+  Import took 0.074241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.010200 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229d98d08fc2673a53c0405aadda5e0d') in 0.064233 seconds 
+  Import took 0.075233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.758785 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67bd37f41e5e93f62a33b9fbcd6acdec') in 0.043723 seconds 
+  Import took 0.056193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.864208 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c679cad4b3d49fd3c8872aa72c46cb21') in 0.058117 seconds 
+  Import took 0.069142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.956377 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4903956cd7903d411eecb3add451739d') in 0.049753 seconds 
+  Import took 0.057042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.028364 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915661a3723838b808f29291fcbd6db5') in 0.054678 seconds 
+  Import took 0.069507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.824589 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e501c512c162fabc7e2e836601426f7d') in 0.050360 seconds 
+  Import took 0.061810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.459088 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3ac38b5f5f803b851c7af4017e8957') in 0.051722 seconds 
+  Import took 0.066241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.061964 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22f9dd2f05eb3fd8e739757bfce5363') in 0.052079 seconds 
+  Import took 0.070583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.234181 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afcfc6ae7cf2e2010ab6bca55774248e') in 0.060595 seconds 
+  Import took 0.072420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.361302 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee4642f16bf34b7aba621f339e04576') in 0.057101 seconds 
+  Import took 0.073128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.149482 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac131fedb87053a4d6c6ee068a0f76e5') in 0.056338 seconds 
+  Import took 0.069213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.198160 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9aca7cade26ca9b737aa68637749e36') in 0.051123 seconds 
+  Import took 0.066372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.777213 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c404e10a4a2628d505b1e9111ae2e918') in 0.055182 seconds 
+  Import took 0.069966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.237456 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2539ff8a649635226b6b58b5ace3f3') in 0.057401 seconds 
+  Import took 0.071196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.746832 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e85dc2974fdb85d83c008c14b4c2032') in 0.052911 seconds 
+  Import took 0.069438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.999341 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940875a5b5a893cfa7fa488ed7617f92') in 0.049772 seconds 
+  Import took 0.058854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.955393 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2498540f9055ebb79e5d20f5a3ff9d9e') in 0.050893 seconds 
+  Import took 0.068913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.982066 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56476ac1fc738f030569dab24b3ee5f2') in 0.056222 seconds 
+  Import took 0.072849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.428858 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef4fb064d600be041696635bb5946b6') in 0.049367 seconds 
+  Import took 0.059534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.487213 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5a098b80f0c5141a2d5fac59cdfe7e') in 0.056701 seconds 
+  Import took 0.070028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.815168 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ece241a1c38c81c90c51b58ad5bede') in 0.053473 seconds 
+  Import took 0.063894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.633686 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd624178cb5983275b319cdea8b9688') in 0.052443 seconds 
+  Import took 0.069099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.154403 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f207dd3d04068296d37caaf1a5b8a17') in 0.049355 seconds 
+  Import took 0.060055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.041108 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9168f67c6ff9748f5cb6ece736d9e0b5') in 0.050315 seconds 
+  Import took 0.060427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.432322 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd760fda544d89e2079b170539725ec54') in 0.055810 seconds 
+  Import took 0.072853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.629928 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd25a5d82a4b29c71aad43e4e41277c0') in 0.046014 seconds 
+  Import took 0.058574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.591161 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaa8cc1598cd9ec275c97d7e1d12c3ad') in 0.052562 seconds 
+  Import took 0.062562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.184263 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f5690883a7954adc2f8b7699159666') in 0.056176 seconds 
+  Import took 0.076067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.941530 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92093683019be8c11a768540ba842882') in 0.054426 seconds 
+  Import took 0.069092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.421374 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36ced979a06e177c68b7174f5a4c1d5d') in 0.058702 seconds 
+  Import took 0.069739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.358594 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf7da56bef6241a2b78a3883623b4e73') in 0.052962 seconds 
+  Import took 0.069277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.525428 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf6e52d6214bf1062a2ed2bbfec2d7c') in 0.050736 seconds 
+  Import took 0.061278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.590272 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252ec872d850a863ba11279b822e745b') in 0.055993 seconds 
+  Import took 0.068036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.804154 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf511ab4acccc80520042af8bf59845') in 0.056411 seconds 
+  Import took 0.072712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.776988 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba008a2048895efd10aef3d334673bf') in 0.048761 seconds 
+  Import took 0.060674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.971743 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd123b2e433f7766acb1b870e35a403a8') in 0.053952 seconds 
+  Import took 0.065784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.450204 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6caa8bfe40219043e4d614001f6b0388') in 0.060497 seconds 
+  Import took 0.072254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.779186 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6401f8a3cb519fc7ed62caf055028373') in 0.060314 seconds 
+  Import took 0.077591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.995962 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008695a31bf586d521cff863bd0a7979') in 0.062521 seconds 
+  Import took 0.077195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.155636 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd31455247e0283979ba554cf28b273b') in 0.072789 seconds 
+  Import took 0.085250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.946799 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f1ff9a8d6191757bfbcdc87825db0e') in 0.064684 seconds 
+  Import took 0.078578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.331383 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a646c53d83b4152e6f27515cfd2b6d6') in 0.065742 seconds 
+  Import took 0.084086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.451659 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4cd212064b77afc4f8abcdae315754') in 0.063745 seconds 
+  Import took 0.079350 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007884 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.145 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3034 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.7 MB.
+System memory in use after: 140.9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3686.
+Total: 7.043000 ms (FindLiveObjects: 0.681200 ms CreateObjectMapping: 0.218300 ms MarkObjects: 5.975500 ms  DeleteObjects: 0.165300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 148.173554 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996e62804ab03201308e4707a1277e48') in 0.263624 seconds 
+  Import took 0.274401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.347588 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524cf0e677c4e540049e42e0113c3047') in 0.100051 seconds 
+  Import took 0.113591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.162759 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee8a0ce41be502e580180349648377d3') in 0.095176 seconds 
+  Import took 0.106822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.348198 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0abc0f620848805a17eff7855e231d') in 0.128405 seconds 
+  Import took 0.145052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.144813 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e7b456b65a0ee0ce3db9343a830256') in 0.110531 seconds 
+  Import took 0.123646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.136896 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef97f9d06b77f82f3fd236e05472e36') in 0.101122 seconds 
+  Import took 0.119089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.742767 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.074069 seconds  code(4) message(Build asset version error: assets/models/prefabs/walkway/walkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:46:33.1623916Z' while content on disk has modification time of '2022-03-20T23:46:33.4054097Z')
+  ERROR: Build asset version error: assets/models/prefabs/walkway/walkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:46:33.1623916Z' while content on disk has modification time of '2022-03-20T23:46:33.4054097Z'
+  Import took 0.087631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.242993 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd3d5d43a9e718294a37f00bed2e832') in 0.093973 seconds 
+  Import took 0.106179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.292152 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7f36d83cd9d0d8b274dab5534bf5b6') in 0.117199 seconds 
+  Import took 0.134655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.089334 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c4fde85fff79310caeeec3e14e8ceb1') in 0.106230 seconds 
+  Import took 0.126036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.192738 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91210f65030983dc5cd51eaf00c2018') in 0.103707 seconds 
+  Import took 0.123823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.301844 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cfd7e98ed84eea7abde89635746f658') in 0.104072 seconds 
+  Import took 0.117327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.472281 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a1a83e3e06adc8d477c1c0c3caaabe') in 0.161864 seconds 
+  Import took 0.177118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.064966 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.277915 seconds  code(4) message(Build asset version error: assets/models/prefabs/walkway/walkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:47:05.5610098Z' while content on disk has modification time of '2022-03-20T23:47:05.9371075Z')
+  ERROR: Build asset version error: assets/models/prefabs/walkway/walkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:47:05.5610098Z' while content on disk has modification time of '2022-03-20T23:47:05.9371075Z'
+  Import took 0.291886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.299347 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6bb12a017e8e9c4d7f3464739749df5') in 0.187696 seconds 
+  Import took 0.206535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.012840 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c8685c3dfdc03e769fdf42522077546') in 0.152234 seconds 
+  Import took 0.164564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.363659 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.126799 seconds  code(4) message(Build asset version error: assets/models/prefabs/walkway/walkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:47:10.8530391Z' while content on disk has modification time of '2022-03-20T23:47:11.2776145Z')
+  ERROR: Build asset version error: assets/models/prefabs/walkway/walkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:47:10.8530391Z' while content on disk has modification time of '2022-03-20T23:47:11.2776145Z'
+  Import took 0.141718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.214575 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '745447baeb90169c684e09c52e83e6f0') in 0.214977 seconds 
+  Import took 0.225868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.920436 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2669f094d7563733bd074b5c9768e43') in 0.172138 seconds 
+  Import took 0.190021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.748702 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bb604dd90978e381da474c7825a3fc2') in 0.089970 seconds 
+  Import took 0.105891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.708716 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8e84444b17b01b68f129d601e5e2e2') in 0.097986 seconds 
+  Import took 0.107661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.712723 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52fc6b1df07225f416e39045a314672e') in 0.098228 seconds 
+  Import took 0.109382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.366025 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8956c7f8df9dbb8ad2276f007614123d') in 0.080840 seconds 
+  Import took 0.093841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.886353 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2645c0e0bc9bf6d4a30dc97418ee9d04') in 0.099985 seconds 
+  Import took 0.110738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.521759 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecbbede7634420b82a091ec6c507e25') in 0.099664 seconds 
+  Import took 0.112385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.372641 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.079980 seconds  code(4) message(Build asset version error: assets/models/prefabs/walkway/walkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:47:27.6872256Z' while content on disk has modification time of '2022-03-20T23:47:27.9196803Z')
+  ERROR: Build asset version error: assets/models/prefabs/walkway/walkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:47:27.6872256Z' while content on disk has modification time of '2022-03-20T23:47:27.9196803Z'
+  Import took 0.091632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109938 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65e05845b1fbc617121ecd1347944328') in 0.110126 seconds 
+  Import took 0.120184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.926707 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d6f491a455256f672ce8b70e9cce87') in 0.108104 seconds 
+  Import took 0.121336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.961343 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3bfe96e42aeddc3994f5323a6b671d') in 0.115337 seconds 
+  Import took 0.128962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.282163 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed329d65f9c68bb7ace074f918f9fe86') in 0.099100 seconds 
+  Import took 0.113801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.481705 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4220566696e0ce1bf9983c6295d31b83') in 0.102145 seconds 
+  Import took 0.116757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.350380 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2088ac3796f41b6848b5abcc4cde3bb3') in 0.126337 seconds 
+  Import took 0.146565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.293610 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20993f2de24351d6abfd0155a4ed9622') in 0.131640 seconds 
+  Import took 0.146548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.734557 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f07a7d90d712635420df0ea40c1b8b') in 0.096152 seconds 
+  Import took 0.109390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.552524 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa4b0345ae52415b66ba3f69bd39163') in 0.086679 seconds 
+  Import took 0.099296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.492057 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19bfcdf1a18542adc44d10dc8d047c07') in 0.104558 seconds 
+  Import took 0.116525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.541631 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e15e02b64444b887beb79f69fb07cb0') in 0.093261 seconds 
+  Import took 0.108355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.118224 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcc4bf511ce3dbaa8b2e83aa1a51d629') in 0.100733 seconds 
+  Import took 0.113095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.774345 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc66a14a940e8c5a2e8c403a4f0a95a8') in 0.096932 seconds 
+  Import took 0.112831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.480017 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f396cdbb5d071c940a0b105458084e53') in 0.109207 seconds 
+  Import took 0.120863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.707765 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d74011a20df7727017432692719a8e') in 0.086952 seconds 
+  Import took 0.100771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.508753 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adda8dca33f6f612df82aa691650db90') in 0.112895 seconds 
+  Import took 0.127424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.301151 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7929ebb26ae493992e9f922a88bb08') in 0.106857 seconds 
+  Import took 0.120247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.334394 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b83bcd3919d9210d319765613f0753') in 0.111423 seconds 
+  Import took 0.127639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106238 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e3c67569da8d35b27bf8a5ed6a3d78') in 0.114623 seconds 
+  Import took 0.130328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.949467 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fdeebd04e124ec861416bf42555dcdf') in 0.095394 seconds 
+  Import took 0.110333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.546193 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58bcbda1c7b789348167c5a2319f1c65') in 0.085435 seconds 
+  Import took 0.097921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.922084 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103161bbc09bbfd7c5c637361af06862') in 0.090971 seconds 
+  Import took 0.103760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.911928 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd52abdbb6584b06e8dbe0c1db44fabbe') in 0.102674 seconds 
+  Import took 0.120199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.159548 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e85419aceb8c77eee07e7cb73c4191') in 0.113301 seconds 
+  Import took 0.125583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.304589 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26827e651cecd72ce8d0e4af5530f43b') in 0.111689 seconds 
+  Import took 0.126602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.815925 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f471c4f984e91b1de5646715dbe85166') in 0.125480 seconds 
+  Import took 0.139414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.264765 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c5a2b109dbe630cfc8394dabd7f3cea') in 0.099789 seconds 
+  Import took 0.113889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.715229 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef7b0b02a52ab6718ed9517646eb0e6') in 0.091786 seconds 
+  Import took 0.105785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.985667 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f56dbc1de80ead893e279609a0a915d') in 0.240361 seconds 
+  Import took 0.260986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.825840 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '210c71e0f33af824143ec8bf51537273') in 0.236831 seconds 
+  Import took 0.256010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.428377 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6471a6e96c2d0c019ac6d82c46efb53e') in 0.085394 seconds 
+  Import took 0.097527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.923318 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0973d0a0151bccd1c8a35b1b0815d28d') in 0.093326 seconds 
+  Import took 0.108537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.920294 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f08006c40da550c334fb58394d5fcc0') in 0.123677 seconds 
+  Import took 0.138274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.109971 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd32e30db8b2d319a756f10dd98dd71f9') in 0.112534 seconds 
+  Import took 0.125920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.350215 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef39655dbce20e52405888624c9aba2') in 0.115032 seconds 
+  Import took 0.133467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.306048 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a1fa135d8768f92a7ae46b22daa060f') in 0.107901 seconds 
+  Import took 0.123183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.534443 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a1a2fd28e4e8bdee5e91376fc90e9bf') in 0.100650 seconds 
+  Import took 0.115151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.538703 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01cfe043e68010237a7dc6f7f7f221a7') in 0.119474 seconds 
+  Import took 0.140583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.112239 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '433148d47df9f3814ce217174dfca6fd') in 0.105750 seconds 
+  Import took 0.117417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.694393 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15bf745bce7e41b41db45ddac6f9c5bb') in 0.095836 seconds 
+  Import took 0.108449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.256472 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06accaf956dd67932500d2dac7bead2b') in 0.105713 seconds 
+  Import took 0.117445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.487633 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3d1984fe61806781e26f884cec0b4be') in 0.104451 seconds 
+  Import took 0.119104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 280.090607 seconds.
+  path: Assets/Models/Prefabs/Walkway/Walkway.prefab
+  artifactKey: Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/Walkway.prefab using Guid(c8a48ad5aa9d5494a92dc96e37cdc634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd16780671e55c1ea4e54b55ff521c062') in 0.119722 seconds 
+  Import took 0.134174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.051924 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8fed2acf5c2513830a2685fb784802a') in 0.085545 seconds 
+  Import took 0.096645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.163962 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66f5644e784ddf88968327b2671a8e7') in 0.073287 seconds 
+  Import took 0.083508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.330169 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61efa88e8cd8f99d68d82555ede7239d') in 0.072025 seconds 
+  Import took 0.088757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.126925 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8644cbd6423c5a9bb5743c56d29a2e11') in 0.085214 seconds 
+  Import took 0.095120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.575195 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad69ba2dd862ed3ce8868bc2e24caeb6') in 0.069416 seconds 
+  Import took 0.078170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.923451 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3bad1eb35acf169e6ef2cfbac4969fd') in 0.090510 seconds 
+  Import took 0.107434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.110395 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1d9050abb2cddaf7f021b1c23e8dd87') in 0.066451 seconds 
+  Import took 0.084389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.626085 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de7f2ba2da7793f31e1c721e52e3be10') in 0.099959 seconds 
+  Import took 0.117702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.193480 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31766303ed2184fdda8532edc3c70a61') in 0.108711 seconds 
+  Import took 0.122292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.571113 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4196c9eb3f39ed7573cb6e677a31a4') in 0.076089 seconds 
+  Import took 0.096232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.980407 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bffda0fe53319b20aeb12d2f01a0dd') in 0.070453 seconds 
+  Import took 0.084250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.332673 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf175a6e291611d50a191c78757350b') in 0.083354 seconds 
+  Import took 0.099290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.087519 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1763dc28938399e9ad9c619292ce761') in 0.077866 seconds 
+  Import took 0.092295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.809331 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.058193 seconds  code(4) message(Build asset version error: assets/models/prefabs/walkway/floatingwalkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:54:47.5614422Z' while content on disk has modification time of '2022-03-20T23:54:47.7829153Z')
+  ERROR: Build asset version error: assets/models/prefabs/walkway/floatingwalkway.prefab in SourceAssetDB has modification time of '2022-03-20T23:54:47.5614422Z' while content on disk has modification time of '2022-03-20T23:54:47.7829153Z'
+  Import took 0.067953 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107605 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e65f26491c4634bd503c529c2fcc65fc') in 0.095947 seconds 
+  Import took 0.104311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.897181 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c095b4adee7481f4d762393f67844e5') in 0.081404 seconds 
+  Import took 0.096185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.001258 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b23eba75f07b17e851c3ec2a10596b') in 0.063697 seconds 
+  Import took 0.075802 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.824136 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fefd572ec6341a815b7b99df8b4ff914') in 0.077896 seconds 
+  Import took 0.095139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.114810 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c18b2ee900f814b3cd6063d73b2b397') in 0.091216 seconds 
+  Import took 0.101183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.769946 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b93190ba8135d97bf6177e1ab51d88') in 0.064260 seconds 
+  Import took 0.072000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.124634 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac11697a493e071f7973f2bc15268b2') in 0.077769 seconds 
+  Import took 0.091562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.111791 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ceccb8649a1051edddb197c8e45b858') in 0.084994 seconds 
+  Import took 0.096253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.716971 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '489a5de2e18410a5b0a8ae29cdd25f36') in 0.088619 seconds 
+  Import took 0.099257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.977979 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976d2a9c1a08fb1ee6b3a32996f59b1d') in 0.073036 seconds 
+  Import took 0.082717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.133554 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54a126f0ff14fe68ee4924869a143c6b') in 0.087743 seconds 
+  Import took 0.103308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.166755 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ceb6b26bd0c19a97fcea186ac155209') in 0.075495 seconds 
+  Import took 0.084281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.888993 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a1877196b9edf1eed63e9bec08d828') in 0.074191 seconds 
+  Import took 0.083174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.750697 seconds.
+  path: Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab
+  artifactKey: Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Walkway/FloatingWalkway.prefab using Guid(dc4f5748f0398a240ad5024796085839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c34a945917e6407174a15011538262') in 0.073853 seconds 
+  Import took 0.089125 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007990 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.528 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.12 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3034 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.4 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3725.
+Total: 7.789500 ms (FindLiveObjects: 0.808300 ms CreateObjectMapping: 0.380000 ms MarkObjects: 6.416900 ms  DeleteObjects: 0.180800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007614 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.393 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.72 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3034 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.2 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3727.
+Total: 5.375000 ms (FindLiveObjects: 0.332100 ms CreateObjectMapping: 0.172400 ms MarkObjects: 4.657700 ms  DeleteObjects: 0.210100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006069 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.886 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3034 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3729.
+Total: 3.734600 ms (FindLiveObjects: 0.343200 ms CreateObjectMapping: 0.153000 ms MarkObjects: 3.115700 ms  DeleteObjects: 0.120900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4976.762841 seconds.
+  path: Assets/Models/Props/Health
+  artifactKey: Guid(fe5135cfe9d757a47a20eb0a8b6c18bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Props/Health using Guid(fe5135cfe9d757a47a20eb0a8b6c18bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b54a62c51a4966b455da328bc37c38') in 0.133441 seconds 
+  Import took 0.202552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.797496 seconds.
+  path: Assets/Models/Props/Health/Health.obj
+  artifactKey: Guid(3869331b894729341b4713a62b411f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Props/Health/Health.obj using Guid(3869331b894729341b4713a62b411f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19fc7c31239733bf697b799ecfbbe52') in 0.462864 seconds 
+  Import took 0.475031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.248454 seconds.
+  path: Assets/Materials/Props/Health.mat
+  artifactKey: Guid(88b898c045e390745b92a286dad4c72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Props/Health.mat using Guid(88b898c045e390745b92a286dad4c72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a900670d621631c1ebf2e04523fad91') in 0.038144 seconds 
+  Import took 0.049374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.516116 seconds.
+  path: Assets/Textures/Props/Health
+  artifactKey: Guid(9acb76cdbe1335f4e8fe59d833f63919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Props/Health using Guid(9acb76cdbe1335f4e8fe59d833f63919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1cccaeb001dcca6d742a914eb32e2be') in 0.017205 seconds 
+  Import took 0.030239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007965 seconds.
+  path: Assets/Textures/Props/Health
+  artifactKey: Guid(9acb76cdbe1335f4e8fe59d833f63919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Props/Health using Guid(9acb76cdbe1335f4e8fe59d833f63919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1cccaeb001dcca6d742a914eb32e2be') in 0.016463 seconds 
+  Import took 0.029315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.596599 seconds.
+  path: Assets/Textures/Props/Health/HealthDiffuse.png
+  artifactKey: Guid(fd861b4bf317f0c4b90314dc26305a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Props/Health/HealthDiffuse.png using Guid(fd861b4bf317f0c4b90314dc26305a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422b45e33ded190cbca48eef5e9c0b35') in 0.067265 seconds 
+  Import took 0.085045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/Textures/Props/Health/HealthNormal.png
+  artifactKey: Guid(582ed1b39ae181545b5f2c36634a5313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Props/Health/HealthNormal.png using Guid(582ed1b39ae181545b5f2c36634a5313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8762943a5d1256287f7f29eac075747') in 0.043824 seconds 
+  Import took 0.058666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001081 seconds.
+  path: Assets/Textures/Props/Health/HealthEmit.png
+  artifactKey: Guid(8ff42c0cc3bd7de46855a75734329d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Props/Health/HealthEmit.png using Guid(8ff42c0cc3bd7de46855a75734329d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e90b0ed79a8b4dedac0ad28170b049dc') in 0.042704 seconds 
+  Import took 0.055067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000534 seconds.
+  path: Assets/Textures/Props/Health/HealthRough.png
+  artifactKey: Guid(415f60fc248b97b4884f2de5a6669232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Props/Health/HealthRough.png using Guid(415f60fc248b97b4884f2de5a6669232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed1955f12644757b8bcff24c9230c2b') in 0.048603 seconds 
+  Import took 0.061761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000563 seconds.
+  path: Assets/Textures/Props/Health/HealthDiffuse.png
+  artifactKey: Guid(fd861b4bf317f0c4b90314dc26305a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Props/Health/HealthDiffuse.png using Guid(fd861b4bf317f0c4b90314dc26305a3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422b45e33ded190cbca48eef5e9c0b35') in 0.033383 seconds 
+  Import took 0.046071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.706722 seconds.
+  path: Assets/Textures/Props/Health/HealthNormal.png
+  artifactKey: Guid(582ed1b39ae181545b5f2c36634a5313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Props/Health/HealthNormal.png using Guid(582ed1b39ae181545b5f2c36634a5313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c9a4f11cbc36f1944bf7cb896164a7') in 0.035152 seconds 
+  Import took 0.047457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.517100 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f942d1ba0fb16db7de498d7c3ba31c38') in 0.041705 seconds 
+  Import took 0.056125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.620204 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c77a866b26c4a1f1c4039d1bd3bb1b2d') in 0.049439 seconds 
+  Import took 0.061062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.970962 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0483a0acd33dfff341cdd2519cda3da') in 0.041487 seconds 
+  Import took 0.051946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.126271 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36bb24c1f34392d273eda92ea20373f8') in 0.050041 seconds 
+  Import took 0.065960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.239064 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6cec8084c21eb1713936968d2223803') in 0.042648 seconds 
+  Import took 0.051175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.046134 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf091f4266a6a7829d798ebf62b3c67') in 0.041843 seconds 
+  Import took 0.056253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.619914 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '296e7409bf032d77b2bcf40fd4572f1d') in 0.043863 seconds 
+  Import took 0.055337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.006283 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f885bf03eceac3e862c157a86e80e4') in 0.044937 seconds 
+  Import took 0.056379 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007772 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.946 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3035 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.8 MB.
+System memory in use after: 142.0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3769.
+Total: 4.905900 ms (FindLiveObjects: 0.280900 ms CreateObjectMapping: 0.140400 ms MarkObjects: 4.368400 ms  DeleteObjects: 0.114200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 71.358244 seconds.
+  path: Assets/Script/HealthAdd.cs
+  artifactKey: Guid(eb3863de0f894ae4eab7790ec725fbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/HealthAdd.cs using Guid(eb3863de0f894ae4eab7790ec725fbf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9dcf5c1530f5f69fa6eb4bb453629d7') in 0.044694 seconds 
+  Import took 0.053439 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006051 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.545 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3035 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.9 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3771.
+Total: 4.904300 ms (FindLiveObjects: 0.329200 ms CreateObjectMapping: 0.144200 ms MarkObjects: 4.264900 ms  DeleteObjects: 0.164100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.079361 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.092 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.00 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3035 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.9 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3773.
+Total: 4.229800 ms (FindLiveObjects: 0.379900 ms CreateObjectMapping: 0.168100 ms MarkObjects: 3.580100 ms  DeleteObjects: 0.100000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 1.315343 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 11.983 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3035 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 141.9 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3775.
+Total: 2.864300 ms (FindLiveObjects: 0.257800 ms CreateObjectMapping: 0.134300 ms MarkObjects: 2.393200 ms  DeleteObjects: 0.077900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2873.099031 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9674e03c6be6a469006811f953f3cc8a') in 0.251881 seconds 
+  Import took 0.261769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.844412 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edade67095a7ce7bc0043fdd730f9e21') in 0.049139 seconds 
+  Import took 0.058971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.239186 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ec23af6fd436f00f934cfe92bdc97c8') in 0.040265 seconds 
+  Import took 0.055336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.540205 seconds.
+  path: Assets/Models/Prefabs/Health.prefab
+  artifactKey: Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Prefabs/Health.prefab using Guid(4e78e57f04769c94680a5c3ddea7cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1bdcd9de1b13de306c6e7eabb72586') in 0.039956 seconds 
+  Import took 0.056648 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008678 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.28 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.600 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 5 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3035 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3813.
+Total: 2.904500 ms (FindLiveObjects: 0.238300 ms CreateObjectMapping: 0.096000 ms MarkObjects: 2.420000 ms  DeleteObjects: 0.148000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
